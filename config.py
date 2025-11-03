@@ -1,12 +1,13 @@
 import os
 
 class Config(object):
-    BOT_TOKEN = os.environ.get("BOT_TOKEN")
-    API_ID = 26741932
-    API_HASH = "d9037cbe01f292eb440468c39c3dc41d"
-    ADMIN_ID = [7047543426]
-    DB_URL = "mongodb+srv://navedmohammad2516:zu02cmOW6medghcJ@cluster0.cq1x5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-    DB_NAME = os.environ.get("DB_NAME")
-    TXT_LOG = -1002322908140
+    BOT_TOKEN = os.environ.get("8260828039:AAGZDWSQyHKiTCFxP7Ub64c5IwrCU86IrFk")
+    API_ID = 22484497
+    API_HASH = "c38cb053916c47a97590c244663cbaef"
+    ADMIN_ID = [6252997817]
+    DB_URL = "mongodb+srv://uploaderbot:uploaderbot@cluster0.mpesxpw.mongodb.net/?retryWrites=true&w=majority"
+    DB_NAME = os.environ.get("uploaderbot")
+    TXT_LOG = -1003120656587
     HOST = "https://www.masterapi.tech"
+
 
